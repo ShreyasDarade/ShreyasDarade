@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi! I'm Shreyas:
+# Hi! I'm Shreyas
 I'm a recent grad student from Carnegie Mellon University with coursework in Data Science, Machine Learning and Deep Learning.<br>Have 2 years of experience as an Analytics consultant working with a Fortune 100 client developing analytics solutions and metrics.
 
 
