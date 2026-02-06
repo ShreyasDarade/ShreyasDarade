@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi! I'm Shreyas
-I'm a recent grad student from Carnegie Mellon University with coursework in Data Science, Machine Learning and Deep Learning.<br>Have 2 years of experience as an Analytics consultant working with a Fortune 100 client developing analytics solutions and metrics.
+I'm a recent grad student from Carnegie Mellon University with coursework in Data Science, Machine Learning and Deep Learning. Deans List with 4.0 GPA.
+<br> Some key coursework: Machine Learning(10601), Deep Learning(11785), Data Science and Big Data(95885), ML for Problem Solving(95828), Unstructured Data Analytics/NLP(95865)
+<br>Have 2 years of experience as an Analytics consultant working with a Fortune 100 client developing analytics solutions and metrics.
+<br>Interned as an AI/ML Engineer during my summer working on builing agent workflows
+<br>Led a team of 4 grad students during the Capstone at CMU contributing as a Data Scientist to solve a safety stock optimizing problem for our client
+
+TLDR: I like Data Science and Chess
 
 
 ## 🌐 Socials:
