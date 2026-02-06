@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>- Deans List in all semesters with 4.0 GPA, highest distinction
 <br>- Key coursework: Machine Learning(10601), Deep Learning(11785), Data Science and Big Data(95885), ML for Problem Solving(95828), Unstructured Data Analytics/NLP(95865)
 <br>- 2 years of experience as an Analytics consultant working with a Fortune 100 client developing analytics solutions and metrics
-<br>- Interned as an AI/ML Engineer during my summer working on builing agent workflows
+<br>- Interned as an AI/ML Engineer during my summer working on builing AI agent workflows
 <br>- Led a team of 4 grad students during the Capstone at CMU contributing as a Data Scientist to solve a safety stock optimizing problem for our client
 <br>- Love to play chess and have played it more than a decade. Recently picked up golf and pool.
 
