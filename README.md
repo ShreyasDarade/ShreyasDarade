@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>- Led a team of 4 grad students during the Capstone at CMU contributing as a Data Scientist to solve a safety stock optimizing problem for our client
 <br>- Love to play chess and have played it more than a decade. Recently picked up golf and pool.
 
-**TLDR: I like Data Science and Chess**
+**TLDR: I like Data Science, Chess and Golf**
 
 
 ## 🌐 Socials:
