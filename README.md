@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Hi! I'm Shreyas
 
 <br>- I'm a recent grad student from CMU with coursework in Data Science, Machine Learning and Deep Learning.
+
 <br>- Currently working as a Senior Associate, Data Scientist in AI Governance at BNY (AI hub).
 <br>- Deans List in all semesters with 4.0 GPA, highest distinction
 <br>- Key coursework: Machine Learning(10601), Deep Learning(11785), Data Science and Big Data(95885), ML for Problem Solving(95828), Unstructured Data Analytics/NLP(95865)
